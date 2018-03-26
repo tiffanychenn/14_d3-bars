@@ -1,1 +1,3 @@
-# 14_d3-bars\n\nmy work for assignment 14
+# 14_d3-bars
+
+my work for assignment 14
